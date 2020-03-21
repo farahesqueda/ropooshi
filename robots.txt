@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://lehahlopae.mansuri.me/sitemap.xml
